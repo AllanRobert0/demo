@@ -1,5 +1,5 @@
 {
-"boleto": [
+"boleto": 
 {"linhaDigitavel":"74891119190047300913215969551074579260000003500",
  "codigoBanco":"748",
  "nomeBeneficiario":"BENEFICIARIO TESTE",
@@ -23,5 +23,4 @@
  "instrucao":"Mensagem gerada pelo teste de integracao\rAPOS VENCIMENTO COBRAR MORA DIARIA DE R$ 1.00.\rCONCEDER DESCONTO DE R$ 5.00 SE PAGO ATE 15/06/2019.\r",
  "informativo":"Informativo gerado pelo teste de integracao\r",
  "codigoBarra":"74895792600000035001119100473009131596955107"}
- ]
 }
