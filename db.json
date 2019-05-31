@@ -1,26 +1,38 @@
 {
-"boleto": 
-{"linhaDigitavel":"74891119190047300913215969551074579260000003500",
- "codigoBanco":"748",
- "nomeBeneficiario":"BENEFICIARIO TESTE",
- "enderecoBeneficiario":"R. PRES GETULIO VARGAS, 366","cpfCnpjBeneficiario":"24630170000118",
- "cooperativaBeneficiario":"0913",
- "postoBeneficiario":"15",
- "codigoBeneficiario":"96955",
- "dataDocumento":"2019-05-24",
- "seuNumero":"1234567890",
- "especieDocumento":"A","aceite":"N",
- "dataProcessamento":"2019-05-24",
- "nossoNumero":191004730,
- "especie":"REAL",
- "valorDocumento":35,
- "dataVencimento":"2019-06-20",
- "nomePagador":"TESTE",
- "cpfCnpjPagador":"10531369943",
- "enderecoPagador":"AV FRANCA, 123",
- "dataLimiteDesconto":"2019-06-15",
- "valorDesconto":0,"jurosMulta":1,
- "instrucao":"Mensagem gerada pelo teste de integracao\rAPOS VENCIMENTO COBRAR MORA DIARIA DE R$ 1.00.\rCONCEDER DESCONTO DE R$ 5.00 SE PAGO ATE 15/06/2019.\r",
- "informativo":"Informativo gerado pelo teste de integracao\r",
- "codigoBarra":"74895792600000035001119100473009131596955107"}
+    "boleto":{
+        "linhaDigitavel":"74891119190047300913215969551074579260000003500",
+        "codigoBanco":"748",
+        "nomeBeneficiario":"BENEFICIARIO TESTE",
+        "enderecoBeneficiario":"R. PRES GETULIO VARGAS, 366","cpfCnpjBeneficiario":"24630170000118",
+        "cooperativaBeneficiario":"0913",
+        "postoBeneficiario":"15",
+        "codigoBeneficiario":"96955",
+        "dataDocumento":"2019-05-24",
+        "seuNumero":"1234567890",
+        "especieDocumento":"A","aceite":"N",
+        "dataProcessamento":"2019-05-24",
+        "nossoNumero":191004730,
+        "especie":"REAL",
+        "valorDocumento":35,
+        "dataVencimento":"2019-06-20",
+        "nomePagador":"TESTE",
+        "cpfCnpjPagador":"10531369943",
+        "enderecoPagador":"AV FRANCA, 123",
+        "dataLimiteDesconto":"2019-06-15",
+        "valorDesconto":0,"jurosMulta":1,
+        "instrucao":"Mensagem gerada pelo teste de integracao\rAPOS VENCIMENTO COBRAR MORA DIARIA DE R$ 1.00.\rCONCEDER DESCONTO DE R$ 5.00 SE PAGO ATE 15/06/2019.\r",
+        "informativo":"Informativo gerado pelo teste de integracao\r",
+        "codigoBarra":"74895792600000035001119100473009131596955107"
+    },
+    
+    "autenticacao":{
+        "chaveTransacao":"3F56218AC65B5AF940297AC339D5D6BDD799F9BC96AE04BCB55931B357548E2A",
+        "dataExpiracao":"2019-05-27T22:13:01.677-03:00"
+    },
+    
+    "emissao":{
+        "menssagem": "Processado com sucesso.",
+        "arquivo": "JVBERi0xLjQKJeLjz9MKMSAwIG9iaiA8PC9UeXBlL1hPYmplY3QvUmVzb3VyY2VzPDwvUHJvY1NldCBbL1BERiAv" 
+    }
+    
 }
