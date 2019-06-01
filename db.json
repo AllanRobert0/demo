@@ -1,5 +1,5 @@
 {
-    "boleto":{
+    "emissao":{
         "linhaDigitavel":"74891119190047300913215969551074579260000003500",
         "codigoBanco":"748",
         "nomeBeneficiario":"BENEFICIARIO TESTE",
@@ -30,7 +30,7 @@
         "dataExpiracao":"2019-05-27T22:13:01.677-03:00"
     },
     
-    "emissao":{
+    "boleto":{
         "menssagem": "Processado com sucesso.",
         "arquivo": "JVBERi0xLjQKJeLjz9MKMSAwIG9iaiA8PC9UeXBlL1hPYmplY3QvUmVzb3VyY2VzPDwvUHJvY1NldCBbL1BERiAv" 
     }
