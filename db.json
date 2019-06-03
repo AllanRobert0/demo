@@ -28,8 +28,10 @@
     },
     
     "autenticacao":{
-        "chaveTransacao":"3F56218AC65B5AF940297AC339D5D6BDD799F9BC96AE04BCB55931B357548E2A",
-        "dataExpiracao":"2019-05-27T22:13:01.677-03:00"
+        "data":{
+            "chaveTransacao":"3F56218AC65B5AF940297AC339D5D6BDD799F9BC96AE04BCB55931B357548E2A",
+            "dataExpiracao":"2019-05-27T22:13:01.677-03:00"
+        }        
     },
     
     "boleto":{
