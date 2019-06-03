@@ -36,7 +36,7 @@
     },
     "boleto_erro":{
         "data":{
-            "codigo":20001
+            "codigo":"20001"
         }
     }
     
